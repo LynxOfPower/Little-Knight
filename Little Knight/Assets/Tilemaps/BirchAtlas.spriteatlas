@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BirchAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+    totalSpriteSurfaceArea: 3328
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8107608652087783821, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -2298289702791279605, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -2029504753295941270, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -8371625615768077571, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -2587981617532507967, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -6047495698559329853, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: 6162325400918782812, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: 2938927257690088884, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -2095341825496189620, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -364870879355420911, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -5793964338245654817, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: 4518491137626218391, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  - {fileID: -4638622204640368987, guid: 684ff27a15f4c1f4e9400f9d2170a362, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - LandscapeTilesBirch_12
+  - LandscapeTilesBirch_11
+  - LandscapeTilesBirch_10
+  - LandscapeTilesBirch_8
+  - LandscapeTilesBirch_9
+  - LandscapeTilesBirch_4
+  - LandscapeTilesBirch_5
+  - LandscapeTilesBirch_6
+  - LandscapeTilesBirch_7
+  - LandscapeTilesBirch_0
+  - LandscapeTilesBirch_1
+  - LandscapeTilesBirch_2
+  - LandscapeTilesBirch_3
+  m_RenderDataMap: {}
+  m_Tag: BirchAtlas
+  m_IsVariant: 0
